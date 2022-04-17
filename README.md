@@ -9,7 +9,12 @@ This script automates farming wood and food in game, so that you don't have to c
 - Mines wood and food *(easy to add gold mining, not added since I didn't need it, and it's currently published as is)*
 - Repairs tools, restores energy
 - Sends logs and warnings to Discord. Warnings use different webhook (can be set to different chat), most important warnings use @everyone mention for monitoring convenience.
+
+![image](https://user-images.githubusercontent.com/33097095/163709159-1dfc874d-7386-4724-a534-854e88c3396c.png)
 - Attempts to restart in case of errors, logs in automatically
+
+![image](https://user-images.githubusercontent.com/33097095/163709163-62c742da-e200-4aa4-b1c5-b7cf69307574.png)
+
 
 # How to use
 - **Only works with WAX Cloud Wallet**
